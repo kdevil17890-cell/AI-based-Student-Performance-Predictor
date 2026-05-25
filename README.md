@@ -35,3 +35,8 @@ This project uses manually created sample data within the code.
 ## 🔮 Future Improvements
 - Use real dataset (CSV)
 - Build web app (Streamlit)
+
+## 📸 Output
+
+![Model Output](Output.png)
+
