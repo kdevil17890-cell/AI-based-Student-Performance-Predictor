@@ -1,4 +1,4 @@
-🎯 AI Student Performance Predictor
+# 🎯 AI Student Performance Predictor
 
 ## 📌 Overview
 This project predicts whether a student will PASS or FAIL using Machine Learning based on:
