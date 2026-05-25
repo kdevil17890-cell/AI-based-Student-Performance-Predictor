@@ -1,6 +1,4 @@
-# AI-based-Student-Performance-Predictor
-AI-based project to predict student performance using Python and Machine Learning
-# 🎯 AI Student Performance Predictor
+🎯 AI Student Performance Predictor
 
 ## 📌 Overview
 This project predicts whether a student will PASS or FAIL using Machine Learning based on:
