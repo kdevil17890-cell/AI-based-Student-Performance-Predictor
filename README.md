@@ -40,3 +40,5 @@ This project uses manually created sample data within the code.
 
 ![Model Output](Output.png)
 
+## 🎥 Demo Video
+[Watch Demo](C:\Users\KOUSHAL\Videos\Captures)
